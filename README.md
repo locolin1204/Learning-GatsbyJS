@@ -1,4 +1,14 @@
-You can try have a look at the website [here](https://learninggatsbymain54627.gatsbyjs.io/).
+# Learning GatsbyJS
+
+A repository recording my journey of learning GatsbyJS.
+
+This project is based on the [official GatsbyJS Tutorial](https://www.gatsbyjs.com/docs/tutorial/).
+
+You can try have a look at my website [here](https://learninggatsbymain54627.gatsbyjs.io/).
+
+## Why learn it?
+
+Because Gatsby is a free and open source framework based on React that helps us build blazing fast websites and apps by using ```Static Site Generation```!
 
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
