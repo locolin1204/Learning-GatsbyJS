@@ -2,9 +2,9 @@
 
 A repository recording my journey of learning GatsbyJS.
 
-This project is based on the [official GatsbyJS Tutorial](https://www.gatsbyjs.com/docs/tutorial/).
+This project is based on the official <a target=”_blank” href="https://www.gatsbyjs.com/docs/tutorial/">GatsbyJS Tutorial</a>.
 
-You can try have a look at my website [here](https://learninggatsbymain54627.gatsbyjs.io/).
+You can try have a look at my website <a target=”_blank” href="https://learninggatsbymain54627.gatsbyjs.io/">here</a>.
 
 ## Why learn it?
 
